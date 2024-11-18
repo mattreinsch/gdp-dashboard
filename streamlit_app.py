@@ -1,3 +1,4 @@
+
 import streamlit as st
 import pandas as pd
 import math
@@ -45,7 +46,7 @@ gdp_df = get_gdp_data()
 # Draw the actual page
 
 # Set the title that appears at the top of the page.
-st.title(':earth_americas: GDP Dashboard')
+st.title(':earth_americas: GDP NEW Dashboard')
 
 st.markdown("""
 Browse GDP data from the World Bank Open Data website. As you'll
